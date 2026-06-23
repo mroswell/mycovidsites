@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "My Covid Sites",
+    "tagline": "A collection of websites documenting Covid-19 vaccine issues, regulatory oversight, and the people impacted.",
+    "updated": "2026-06-23"
+  },
+  "sites": [
+    {
+      "title": "248 Questions",
+      "url": "https://248Questions.com",
+      "display": "248Questions.com",
+      "description": "A website presenting 248 scientific questions for the FDA regarding COVID-19 vaccine manufacturing, safety testing, and regulatory oversight, based on published work by researchers David Wiseman, PhD, and Maria Gutschi, PharmD.",
+      "tags": ["FDA", "Regulatory", "Manufacturing", "Safety Testing"]
+    },
+    {
+      "title": "Anecdotals (the movie)",
+      "url": "https://AnecdotalMovie.com",
+      "display": "AnecdotalMovie.com",
+      "description": "Support site for the documentary movie \"Anecdotals,\" which follows people whose lives were dramatically altered by COVID-19 vaccine adverse reactions—individuals who found themselves censored, dismissed, and caught between a polarized debate, unable to get medical care or acknowledgment.",
+      "tags": ["Documentary", "Vaccine Injury", "Film"]
+    },
+    {
+      "title": "Christine Cotton Archive",
+      "url": "https://ChristineCottonArchive.com",
+      "display": "ChristineCottonArchive.com",
+      "description": "A bilingual (English/French) preservation archive of the work of Christine Cotton, the French biostatistician who critiqued Pfizer's C4591001 clinical trial on Good Clinical Practice grounds. It includes her reports and book, the captured text of her major works, an indexed catalog filterable by type, tag, and language, her 18 video interviews (with translations and summaries), and the 231 external sources she cited.",
+      "tags": ["Clinical Trials", "Biostatistics", "Archive", "Bilingual"]
+    },
+    {
+      "title": "Committee Comments",
+      "url": "https://CommitteeComments.com",
+      "display": "CommitteeComments.com",
+      "description": "Full-text search of public comments submitted in advance of the canceled February 25-27, 2026 Advisory Committee on Immunization Practices (ACIP) meeting. Offers improved usability over regulations.gov, including a checkbox to surface comments about vaccine injury.",
+      "tags": ["ACIP", "Public Comments", "Search Tool"]
+    },
+    {
+      "title": "Covid Documents",
+      "url": "https://COVIDDocuments.com",
+      "display": "CovidDocuments.com",
+      "description": "FOIA'd documents from PHMPT.org, filterable by tags, modules, company, etc. Includes metadata and a searchable data dictionary. Limited to Pfizer and Moderna Adult EUA and Pfizer Adult BLA documents.",
+      "tags": ["FOIA", "Documents", "Pfizer", "Moderna", "Search Tool"]
+    },
+    {
+      "title": "Covid Documents — FOIA (full set)",
+      "url": "https://foia.coviddocuments.com",
+      "display": "FOIA.CovidDocuments.com",
+      "description": "Companion site to CovidDocuments.com, including ALL the PHMPT.org documents released so far, but doesn't include the document tagging or metadata.",
+      "tags": ["FOIA", "Documents", "Archive"]
+    },
+    {
+      "title": "Covista — Tri-State Alliance",
+      "url": "https://covista.net",
+      "display": "Covista.net",
+      "description": "COVID Vaccine-Injured Support — Tri-State Alliance: an independent, non-partisan group for COVID-19 vaccine-injured individuals in New Jersey, New York, and Pennsylvania, working to secure acknowledgment of vaccine injuries, access to healthcare, and compensation programs.",
+      "tags": ["Vaccine Injury", "Support Group", "Advocacy"]
+    },
+    {
+      "title": "Drop The Case",
+      "url": "https://DropTheCase.com",
+      "display": "DropTheCase.com",
+      "description": "Dr. Ron Elfenbein is a Maryland frontline COVID doctor convicted of healthcare fraud for billing practices that a federal judge later ruled were lawful. In a 93-page acquittal opinion consistent with the government's own pandemic-era guidance, the judge cleared him. But the DOJ appealed, and Dr. Elfenbein faces a new trial in August 2026.",
+      "tags": ["Legal", "Physician", "DOJ"]
+    },
+    {
+      "title": "Good Nutrition is Antiviral",
+      "url": "https://bit.ly/antiviral-nutrition",
+      "display": "bit.ly/antiviral-nutrition",
+      "description": "An annotated, science-backed compilation of nutrition research showing that produce, spices, and beans have antiviral properties, while a poor diet increases vulnerability to infection. Public health messaging on COVID-19 failed to communicate this. Published March 2020.",
+      "tags": ["Nutrition", "Antiviral", "Medium Article"]
+    },
+    {
+      "title": "My Covid Sites",
+      "url": "https://MyCovidSites.com",
+      "display": "MyCovidSites.com",
+      "description": "This site 🙂",
+      "tags": ["Index"]
+    },
+    {
+      "title": "V-Safety Signals",
+      "url": "https://VSafetySignals.com",
+      "display": "VSafetySignals.com",
+      "description": "Features full-text search of a Senate PSI interim report on COVID-19 vaccine safety signal masking; includes clickable footnotes, PDF deep-links, a timeline, and a glossary.",
+      "tags": ["Senate Report", "Safety Signals", "Search Tool"]
+    }
+  ]
+}
