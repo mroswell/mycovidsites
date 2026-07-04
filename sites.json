@@ -86,6 +86,14 @@
       "tags": ["Index"]
     },
     {
+      "title": "Trial Protocols",
+      "url": "https://TrialProtocols.com",
+      "display": "TrialProtocols.com",
+      "short": "Ten pivotal Covid-19 vaccine trials and their available protocol amendments.",
+      "description": "Tracks how ten pivotal Covid-19 vaccine trials changed over time — Pfizer/BioNTech, Moderna, AstraZeneca, and Janssen — as far as the public record allows. Some original protocols and amendments are missing, which is itself part of the story. Sourced from the PHMPT FOIA release, clinicaltrials.gov, the NEJM protocol supplement, and the Wayback Machine.",
+      "tags": ["Clinical Trials", "Protocols", "Amendment Histories"]
+    },
+    {
       "title": "V-Safety Signals",
       "url": "https://VSafetySignals.com",
       "display": "VSafetySignals.com",
